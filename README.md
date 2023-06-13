@@ -52,6 +52,9 @@
 </a>
 <hr />
 
+<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+<br />
+
 <!--START_SECTION:badges-->
 [![Full Stack Cloud Development Capstone Project](https://images.credly.com/size/100x100/images/fa418e1b-119d-4e79-b663-e6c20dfff214/Full_Stack_Cloud_Development_Capstone_Project.png)](http://www.credly.com/badges/4a39ebd7-b643-4fec-a177-0345e384fad9 "Full Stack Cloud Development Capstone Project")
 [![Application Development using Microservices and Serverless](https://images.credly.com/size/100x100/images/49c40b34-794d-41c6-ace2-ec9a53a175de/Application_Development_using_Microservices_and_Serverless.png)](http://www.credly.com/badges/b4173f8f-c999-4472-b2ec-939169f50729 "Application Development using Microservices and Serverless")
