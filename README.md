@@ -51,3 +51,8 @@
    <img src="https://wakatime.com/badge/user/9c7edb95-27d6-44f8-820b-9c30da8cbd08.svg" alt="Total time coded since Jan 4 2023" />
 </a>
 <hr />
+
+<!--START_SECTION:badges-->
+
+<!--END_SECTION:badges-->
+<hr />
