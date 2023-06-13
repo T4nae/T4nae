@@ -20,4 +20,4 @@ jobs:
       - name: Credly importer
         uses: michaelcontento/credly-import-action@v1.0.1
         with:
-          username: Tanyam Baweja
+          username: tanae-b
