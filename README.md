@@ -1,6 +1,7 @@
 <hr />
 
 # Tanyam Baweja
+[Interactive Portfolio](https://www.tanyambaweja.tech/)
 
 <hr />
 
